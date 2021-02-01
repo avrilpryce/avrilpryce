@@ -1,4 +1,4 @@
-### Hey friend, I'm Avril 
+### Hey there, I'm Avril 
 
 ## I'm a Developer, Teacher, and Entertainer!!
 
