@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Teacher, and Entertainer!!
 
-- 🌱 I’m currently learning everything frontend related (Typescript & React Native) 👨🏾‍💻
+- 🌱 I’m currently learning everything frontend related (React & React Native) 👨🏾‍💻
 - 👯 I’m looking to collaborate with other like minded developers
 - 🥅 2021 Goals: Build more projects tha can be useful in the music & entertainment industry
 - ⚡ Fun fact: I love to produce music and dance
