@@ -1,4 +1,4 @@
-# Hey, I’m Avril 👋🏾✨  
+# Hey, I’m A.P. 👋🏾✨  
 **Frontend engineer → Backend-in-training (Python) | Music + tech forever 🎶💻**
 
 ## Almost died… but coding saved me ⚡️
