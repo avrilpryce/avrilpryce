@@ -1,42 +1,80 @@
-### Hey there, I'm Avril 
+# Hey, I’m Avril 👋🏾✨  
+**Frontend engineer → Backend-in-training (Python) | Music + tech forever 🎶💻**
 
-## I'm a Developer, Teacher, and Entertainer!!
+## Almost died… but coding saved me ⚡️
+Okay, it was more of a **spiritual death** 😅 — but still.  
+Like a lot of people, COVID-19 flipped my world upside down. I spent **5+ years** in music + events, living on adrenaline: planning the next soirée, solving chaos with finesse, and getting pulled in a million directions.
 
-- 🌱 I’m currently learning everything frontend related (React & React Native) 👨🏾‍💻
-- 👯 I’m looking to collaborate with other like minded developers
-- 🥅 2021 Goals: Build more projects tha can be useful in the music & entertainment industry
-- ⚡ Fun fact: I love to produce music and dance
+Then the industry hit pause. Hard.
 
-### Connect with me:
-[<img align="left" alt="Avril Pryce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Avril Pryce | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+One day I was listening to music, staring into the void, asking:  
+**“A.P., who are you without the next event?”** 🤔
 
-<br />
+I switched from my iPhone to my MacBook and got that little prompt:  
+**“Continue playing music on your computer?”**  
+And my brain went: **WAIT… TECH.** 💡
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][techstack]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][techstack]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][techstack]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][techstack]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][techstack]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][techstack]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][techstack]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][techstack]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][techstack]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][techstack]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][techstack]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][techstack]
-
-<br />
-<br />
+That moment kicked off my pivot — and it brought me here.
 
 ---
 
+## What I’m about 🎯
+I’m a Software Engineer with frontend experience, now making an intentional transition into **backend development with Python**.  
 
-[website]: https://avrilpryce.com
-[instagram]: https://instagram.com/avrilshawnpryce
+My mission hasn’t changed:
+**entertain, engage, empower, and enrich lives** — now through code that’s not just pretty in the browser, but powerful behind the scenes too. 🧠⚙️
+
+---
+
+## What I bring to the table 🧰
+### Frontend strengths (battle-tested) 🛡️
+- JavaScript, React, TypeScript, Node.js  
+- Building clean UI + smooth UX with strong product instincts  
+- Testing + optimization mindset (helped improve team capabilities by **59%** 📈)
+
+### Backend momentum (actively building) 🚀
+- Python projects with **unit tests** ✅  
+- **Docker** workflows 🐳  
+- Curious about scalable systems, APIs, and data pipelines  
+- Learning by shipping — not by “reading about it” 😤
+
+---
+
+## What I’m looking for 🔍
+I’m actively pursuing **backend engineering opportunities** where I can:
+- Apply Python in real-world systems  
+- Learn fast in a strong engineering culture  
+- Bring my frontend experience to build **full-stack solutions** that actually ship 🚢
+
+Bonus points if your work touches:
+🎵 music / entertainment • ✈️ travel • 🌱 sustainability • 🚀 anything meaningfully innovative
+
+---
+
+## How I show up as a teammate 🤝
+I’m smart, engaging, and I bring a **can-do attitude**.  
+Confident enough to speak up, humble enough to learn, and always down to support the squad.
+
+I live by four principles:
+- **Be flexible** 🌊  
+- **Be ready** ⚡️  
+- **Be fun** 😄  
+- **Be you** 🪩
+
+---
+
+## Skills (the toolbox) 🧪
+**JavaScript • Python (learning) • Node.js • React • TypeScript • HTML • CSS • REST APIs • GraphQL • PostgreSQL • Docker • Jest • Git/GitHub**
+
+---
+
+## Let’s connect ☕️
+If you’re into the intersection of **technology + meaningful impact**, or you need someone who can bring **frontend experience + backend hunger**, hit me up.
+
+[<img align="left" alt="Avril Pryce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+**Let’s build something that matters.** 💥
+
+
 [linkedin]: https://linkedin.com/in/avrilpryce
-[instagram]: https://instagram.com/avrilshawnpryce
-[techstack]: https://stackshare.io/avrilpryce
 
