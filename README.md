@@ -64,7 +64,7 @@ I live by four principles:
 ---
 
 ## Skills (the toolbox) 🧪
-**JavaScript • Python (learning) • Node.js • React • TypeScript • HTML • CSS • REST APIs • GraphQL • PostgreSQL • Docker • Jest • Git/GitHub**
+**JavaScript • Python • Node.js • React • TypeScript • HTML • CSS • REST APIs • GraphQL • PostgreSQL • Docker • Jest • Git/GitHub**
 
 ---
 
