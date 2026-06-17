@@ -1,5 +1,5 @@
 # Hey, I’m A.P. 👋🏾✨  
-**Frontend engineer → Backend-in-training (Python) | Music + tech forever 🎶💻**
+**Frontend engineer → Fullstack/Backend (Python & Node.js)💻**
 
 ## Almost died… but coding saved me ⚡️
 Okay, it was more of a **spiritual death** 😅 — but still.  
